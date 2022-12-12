@@ -1,0 +1,6259 @@
+.mediaViewInfo {
+    --web-view-name: TETERIATÉPARATI;
+    --web-view-id: TETERIATPARATI;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: TETERIATPARATI;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#TETERIATPARATI {
+    position: absolute;
+    width: 1920px;
+    height: 12988px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: TETERIATÉPARATI;
+    --web-view-id: TETERIATPARATI;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#Rectngulo_129 {
+    fill: rgba(198,241,150,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_129 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 2587px;
+    left: 0px;
+    top: 5406px;
+}
+#Rectngulo_104 {
+    fill: rgba(198,241,150,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_104 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1507px;
+    left: 0px;
+    top: 0px;
+}
+#Te-Chai-Latte-IMAGEN-DESTACADA {
+    position: absolute;
+    width: 1959px;
+    height: 1296px;
+    left: -39px;
+    top: 267px;
+    overflow: visible;
+}
+#Rectngulo_90 {
+    opacity: 0.73;
+    fill: rgba(110,159,92,1);
+    stroke: rgba(252,250,212,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_90 {
+    position: absolute;
+    overflow: visible;
+    width: 1253px;
+    height: 309px;
+    left: 599px;
+    top: 915px;
+}
+#Text {
+    left: 1298px;
+    top: 390px;
+    position: absolute;
+    overflow: visible;
+    width: 1px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#Rectngulo_4 {
+    opacity: 0.73;
+    fill: rgba(115,194,109,1);
+    stroke: rgba(252,250,212,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_4 {
+    position: absolute;
+    overflow: visible;
+    width: 1099px;
+    height: 262px;
+    left: 68px;
+    top: 373px;
+}
+#Te_has_preguntado_que_pasara_s {
+    left: 163px;
+    top: 445px;
+    position: absolute;
+    overflow: visible;
+    width: 911px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Somos_una_empresa_dedicada_a_l {
+    left: 735px;
+    top: 979px;
+    position: absolute;
+    overflow: visible;
+    width: 993px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+}
+#Grupo_de_desplazamiento_6 {
+    mix-blend-mode: normal;
+    position: absolute;
+    width: 603px;
+    height: 50px;
+    left: 659px;
+    top: 63px;
+    overflow: hidden;
+}
+#Grupo_122 {
+    position: absolute;
+    width: 859px;
+    height: 50px;
+    left: -13px;
+    top: 0px;
+    overflow: visible;
+}
+#Trazado_13 {
+    fill: rgba(255,255,255,0);
+    stroke: rgba(0,0,0,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_13 {
+    overflow: visible;
+    position: absolute;
+    width: 859px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_121 {
+    position: absolute;
+    width: 802px;
+    height: 20px;
+    left: 28px;
+    top: 16px;
+    overflow: visible;
+}
+#Grupo_119 {
+    position: absolute;
+    width: 802px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#INICIO {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 56px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#CARRITO {
+    left: 279px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#RESTAURANTE {
+    left: 105px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#CONTACTO {
+    left: 708px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 95px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#DATOS_PERSONALES {
+    left: 401px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 172px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#PAGAR {
+    left: 611px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#BIENVENIDOS_A_TETERIA {
+    left: 572px;
+    top: 156px;
+    position: absolute;
+    overflow: visible;
+    width: 777px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 76px;
+    color: rgba(10,0,0,1);
+}
+#T_para_ti {
+    left: 190.089px;
+    top: 179.1px;
+    position: absolute;
+    overflow: visible;
+    width: 63px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(10,0,0,1);
+    text-transform: uppercase;
+}
+#Rectngulo_79 {
+    fill: rgba(198,241,150,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_79 {
+    position: absolute;
+    overflow: visible;
+    width: 1591px;
+    height: 884px;
+    left: 165px;
+    top: 11482px;
+}
+#CONTACTO_ {
+    left: 781px;
+    top: 11540px;
+    position: absolute;
+    overflow: visible;
+    width: 361px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 77px;
+    color: rgba(10,0,0,1);
+}
+#Trazado_10 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_10 {
+    overflow: visible;
+    position: absolute;
+    width: 639px;
+    height: 66px;
+    left: 641px;
+    top: 11709px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_11 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_11 {
+    overflow: visible;
+    position: absolute;
+    width: 639px;
+    height: 66px;
+    left: 641px;
+    top: 11813px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_12 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_12 {
+    overflow: visible;
+    position: absolute;
+    width: 639px;
+    height: 212.4px;
+    left: 640.5px;
+    top: 11917px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ingrese_su_pregunta_o_comentar {
+    left: 748px;
+    top: 11623px;
+    position: absolute;
+    overflow: visible;
+    width: 427px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    color: rgba(10,0,0,1);
+}
+#Usuario {
+    left: 910px;
+    top: 11726px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    color: rgba(10,0,0,1);
+}
+#Correo_ {
+    left: 912px;
+    top: 11830px;
+    position: absolute;
+    overflow: visible;
+    width: 99px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    color: rgba(10,0,0,1);
+}
+#Comentario {
+    left: 884px;
+    top: 11935px;
+    position: absolute;
+    overflow: visible;
+    width: 155px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    color: rgba(10,0,0,1);
+}
+#trataremos_de_responderle_lo_a {
+    left: 680px;
+    top: 12238px;
+    position: absolute;
+    overflow: visible;
+    width: 561px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_32 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_32 {
+    position: absolute;
+    overflow: visible;
+    width: 291px;
+    height: 54px;
+    left: 815px;
+    top: 12170px;
+}
+#Enviar_comentario {
+    left: 839px;
+    top: 12180px;
+    position: absolute;
+    overflow: visible;
+    width: 243px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_194 {
+    position: absolute;
+    width: 1594px;
+    height: 12px;
+    left: 163px;
+    top: 11307px;
+    overflow: visible;
+}
+#Rectngulo_75 {
+    fill: rgba(115,194,109,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_75 {
+    position: absolute;
+    overflow: visible;
+    width: 179px;
+    height: 12px;
+    left: 0px;
+    top: 0px;
+}
+#Rectngulo_77 {
+    fill: rgba(115,194,109,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_77 {
+    position: absolute;
+    overflow: visible;
+    width: 302px;
+    height: 12px;
+    left: 905px;
+    top: 0px;
+}
+#Rectngulo_78 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_78 {
+    position: absolute;
+    overflow: visible;
+    width: 302px;
+    height: 12px;
+    left: 391px;
+    top: 0px;
+}
+#Rectngulo_82 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_82 {
+    position: absolute;
+    overflow: visible;
+    width: 179px;
+    height: 12px;
+    left: 1415px;
+    top: 0px;
+}
+#Carrito {
+    left: 895.162px;
+    top: 8181px;
+    position: absolute;
+    overflow: visible;
+    width: 221px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 81px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_52 {
+    position: absolute;
+    width: 135px;
+    height: 129px;
+    left: 742.162px;
+    top: 8157px;
+    overflow: visible;
+}
+#n_413908 {
+    position: absolute;
+    width: 135px;
+    height: 129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectngulo_32_bq {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_32_bq {
+    position: absolute;
+    overflow: visible;
+    width: 485px;
+    height: 57px;
+    left: 686.662px;
+    top: 8864.969px;
+    cursor: pointer;
+    --web-animation: fadein 0.30000001192092896s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___7.html;
+}
+#Pagar_todo {
+    left: 819.662px;
+    top: 8875.969px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 41px;
+    color: rgba(10,0,0,1);
+    text-transform: uppercase;
+}
+#Rectngulo_29 {
+    fill: rgba(198,241,150,1);
+    stroke: rgba(252,250,212,1);
+    stroke-width: 13px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_29 {
+    position: absolute;
+    overflow: visible;
+    width: 596px;
+    height: 471px;
+    left: 1289.186px;
+    top: 8462.719px;
+}
+#Rectngulo_30 {
+    fill: rgba(198,241,150,1);
+    stroke: rgba(252,250,212,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_30 {
+    position: absolute;
+    overflow: visible;
+    width: 596px;
+    height: 471px;
+    left: 662.186px;
+    top: 8462.719px;
+}
+#No_tienes__compras {
+    left: 831.186px;
+    top: 8616.719px;
+    position: absolute;
+    overflow: visible;
+    width: 261px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 69px;
+    color: rgba(10,0,0,1);
+}
+#No_tienes__compras_bv {
+    left: 1468.186px;
+    top: 8616.719px;
+    position: absolute;
+    overflow: visible;
+    width: 261px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 69px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_48 {
+    fill: rgba(198,241,150,1);
+    stroke: rgba(252,250,212,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_48 {
+    position: absolute;
+    overflow: visible;
+    width: 596px;
+    height: 471px;
+    left: 34.814px;
+    top: 8462.719px;
+}
+#n_JZCKIY2CBDD7BG4HYJ63K42TY {
+    position: absolute;
+    width: 201.126px;
+    height: 253.468px;
+    left: 74.064px;
+    top: 8582.674px;
+    overflow: visible;
+}
+#Grupo_74 {
+    position: absolute;
+    width: 222px;
+    height: 153px;
+    left: 332.814px;
+    top: 8633.219px;
+    overflow: visible;
+}
+#T_Negro {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 223px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 65px;
+    color: rgba(10,0,0,1);
+}
+#n_0_Bolsas_Pendiente_ {
+    left: 28px;
+    top: 65px;
+    position: absolute;
+    overflow: visible;
+    width: 167px;
+    white-space: nowrap;
+    line-height: 46px;
+    margin-top: -2px;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    color: rgba(112,112,112,1);
+}
+#Grupo_214 {
+    position: absolute;
+    width: 122.206px;
+    height: 165.68px;
+    left: 477.209px;
+    top: 8751.289px;
+    overflow: visible;
+}
+#Trazado_145 {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_145 {
+    overflow: visible;
+    position: absolute;
+    width: 24.003px;
+    height: 76.446px;
+    transform: translate(-454.209px, -8945.295px) matrix(1,0,0,1,524.5747,8945.6645) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_146 {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_146 {
+    overflow: visible;
+    position: absolute;
+    width: 28.499px;
+    height: 58.153px;
+    transform: translate(-454.209px, -8945.295px) matrix(1,0,0,1,534.3779,8988.4826) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_147 {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_147 {
+    overflow: visible;
+    position: absolute;
+    width: 29.904px;
+    height: 61.656px;
+    transform: translate(-454.209px, -8945.295px) matrix(1,0,0,1,494.5989,8980.0057) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_148 {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_148 {
+    overflow: visible;
+    position: absolute;
+    width: 34.265px;
+    height: 47.383px;
+    transform: translate(-454.209px, -8945.295px) matrix(1,0,0,1,511.985,9028.6813) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_149 {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_149 {
+    overflow: visible;
+    position: absolute;
+    width: 28.845px;
+    height: 57.276px;
+    transform: translate(-454.209px, -8945.295px) matrix(1,0,0,1,467.4794,9016.0317) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_150 {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_150 {
+    overflow: visible;
+    position: absolute;
+    width: 37.599px;
+    height: 41.747px;
+    transform: translate(-454.209px, -8945.295px) matrix(1,0,0,1,492.3842,9062.3563) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_215 {
+    position: absolute;
+    width: 122.206px;
+    height: 165.68px;
+    left: 1100.072px;
+    top: 8751.289px;
+    overflow: visible;
+}
+#Trazado_145_b {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_145_b {
+    overflow: visible;
+    position: absolute;
+    width: 24.003px;
+    height: 76.446px;
+    transform: translate(-1061.072px, -8914.481px) matrix(1,0,0,1,1131.4377,8914.851) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_146_ca {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_146_ca {
+    overflow: visible;
+    position: absolute;
+    width: 28.499px;
+    height: 58.153px;
+    transform: translate(-1061.072px, -8914.481px) matrix(1,0,0,1,1141.2409,8957.6691) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_147_cb {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_147_cb {
+    overflow: visible;
+    position: absolute;
+    width: 29.904px;
+    height: 61.656px;
+    transform: translate(-1061.072px, -8914.481px) matrix(1,0,0,1,1101.4619,8949.1922) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_148_cc {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_148_cc {
+    overflow: visible;
+    position: absolute;
+    width: 34.265px;
+    height: 47.383px;
+    transform: translate(-1061.072px, -8914.481px) matrix(1,0,0,1,1118.848,8997.8679) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_149_cd {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_149_cd {
+    overflow: visible;
+    position: absolute;
+    width: 28.845px;
+    height: 57.276px;
+    transform: translate(-1061.072px, -8914.481px) matrix(1,0,0,1,1074.3424,8985.2182) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_150_ce {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_150_ce {
+    overflow: visible;
+    position: absolute;
+    width: 37.599px;
+    height: 41.747px;
+    transform: translate(-1061.072px, -8914.481px) matrix(1,0,0,1,1099.2471,9031.5428) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_216 {
+    position: absolute;
+    width: 122.206px;
+    height: 165.68px;
+    left: 1719.255px;
+    top: 8740.789px;
+    overflow: visible;
+}
+#Trazado_145_cg {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_145_cg {
+    overflow: visible;
+    position: absolute;
+    width: 24.003px;
+    height: 76.446px;
+    transform: translate(-1568.056px, -8958.481px) matrix(1,0,0,1,1638.4218,8958.851) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_146_ch {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_146_ch {
+    overflow: visible;
+    position: absolute;
+    width: 28.499px;
+    height: 58.153px;
+    transform: translate(-1568.056px, -8958.481px) matrix(1,0,0,1,1648.225,9001.6691) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_147_ci {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_147_ci {
+    overflow: visible;
+    position: absolute;
+    width: 29.904px;
+    height: 61.656px;
+    transform: translate(-1568.056px, -8958.481px) matrix(1,0,0,1,1608.446,8993.1922) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_148_cj {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_148_cj {
+    overflow: visible;
+    position: absolute;
+    width: 34.265px;
+    height: 47.383px;
+    transform: translate(-1568.056px, -8958.481px) matrix(1,0,0,1,1625.8322,9041.8679) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_149_ck {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_149_ck {
+    overflow: visible;
+    position: absolute;
+    width: 28.845px;
+    height: 57.276px;
+    transform: translate(-1568.056px, -8958.481px) matrix(1,0,0,1,1581.3265,9029.2182) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_150_cl {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_150_cl {
+    overflow: visible;
+    position: absolute;
+    width: 37.599px;
+    height: 41.747px;
+    transform: translate(-1568.056px, -8958.481px) matrix(1,0,0,1,1606.2314,9075.5428) rotate(33deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Rectngulo_89 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(138,221,132,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_89 {
+    position: absolute;
+    overflow: visible;
+    width: 1591px;
+    height: 884px;
+    left: 165.338px;
+    top: 9148.22px;
+}
+#Ingrese_sus_datos {
+    left: 696.338px;
+    top: 9203.22px;
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 81px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_177 {
+    position: absolute;
+    width: 1321px;
+    height: 560px;
+    left: 300.338px;
+    top: 9345.22px;
+    overflow: visible;
+}
+#Trazado_1 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_1 {
+    overflow: visible;
+    position: absolute;
+    width: 639px;
+    height: 66px;
+    left: 0px;
+    top: 58px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_2 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_2 {
+    overflow: visible;
+    position: absolute;
+    width: 639px;
+    height: 66px;
+    left: 682px;
+    top: 58px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_3 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_3 {
+    overflow: visible;
+    position: absolute;
+    width: 1321px;
+    height: 79px;
+    left: 0px;
+    top: 481px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_4 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_4 {
+    overflow: visible;
+    position: absolute;
+    width: 1321px;
+    height: 79px;
+    left: 0px;
+    top: 192px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_5 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_5 {
+    overflow: visible;
+    position: absolute;
+    width: 1321px;
+    height: 79px;
+    left: 0px;
+    top: 340px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Direccin {
+    left: 0px;
+    top: 430px;
+    position: absolute;
+    overflow: visible;
+    width: 177px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Comuna {
+    left: 0px;
+    top: 290px;
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Nombre {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 151px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Apellido {
+    left: 682px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 154px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Ciudad {
+    left: 0px;
+    top: 143px;
+    position: absolute;
+    overflow: visible;
+    width: 133px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_100 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(138,221,132,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_100 {
+    position: absolute;
+    overflow: visible;
+    width: 1831px;
+    height: 744px;
+    left: 45px;
+    top: 10284.75px;
+}
+#Trazado_6 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_6 {
+    overflow: visible;
+    position: absolute;
+    width: 251.6px;
+    height: 79px;
+    left: 1114.4px;
+    top: 10569.75px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_7 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_7 {
+    overflow: visible;
+    position: absolute;
+    width: 358px;
+    height: 79px;
+    left: 508px;
+    top: 10569.75px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_8 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_8 {
+    overflow: visible;
+    position: absolute;
+    width: 1321px;
+    height: 79px;
+    left: 508px;
+    top: 10718.75px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#CVV {
+    left: 1114px;
+    top: 10524.75px;
+    position: absolute;
+    overflow: visible;
+    width: 84px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Nombre_del_titular {
+    left: 508px;
+    top: 10669.75px;
+    position: absolute;
+    overflow: visible;
+    width: 345px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Nmero_de_tarjeta {
+    left: 508px;
+    top: 10370.75px;
+    position: absolute;
+    overflow: visible;
+    width: 341px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Fecha_de_caducidad {
+    left: 508px;
+    top: 10517.75px;
+    position: absolute;
+    overflow: visible;
+    width: 359px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_74 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_74 {
+    position: absolute;
+    overflow: visible;
+    width: 329px;
+    height: 365px;
+    left: 86px;
+    top: 10440.75px;
+}
+#Debito {
+    left: 173px;
+    top: 10500.75px;
+    position: absolute;
+    overflow: visible;
+    width: 123px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Crdito {
+    left: 173px;
+    top: 10611.75px;
+    position: absolute;
+    overflow: visible;
+    width: 137px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Efectivo {
+    left: 173px;
+    top: 10722.75px;
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(10,0,0,1);
+}
+#Escoja_una_opcin {
+    left: 122px;
+    top: 10375.75px;
+    position: absolute;
+    overflow: visible;
+    width: 267px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 39px;
+    color: rgba(10,0,0,1);
+}
+#Trazado_9 {
+    opacity: 0.66;
+    fill: rgba(243,240,240,1);
+    stroke: rgba(10,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_9 {
+    overflow: visible;
+    position: absolute;
+    width: 1321px;
+    height: 79px;
+    left: 508px;
+    top: 10431.75px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#XXXX-XXXX-XXXX-XXXX {
+    left: 539px;
+    top: 10447.75px;
+    position: absolute;
+    overflow: visible;
+    width: 479px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(218,212,212,1);
+}
+#MMAA {
+    left: 582px;
+    top: 10587.75px;
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(218,212,212,1);
+}
+#XXX {
+    left: 1199px;
+    top: 10587.75px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 49px;
+    color: rgba(218,212,212,1);
+}
+#Grupo_123 {
+    position: absolute;
+    width: 485px;
+    height: 57px;
+    left: 718px;
+    top: 10918.75px;
+    overflow: visible;
+    cursor: pointer;
+    --web-animation: fadein 0.30000001192092896s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___5.html;
+}
+#Rectngulo_55 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_55 {
+    position: absolute;
+    overflow: visible;
+    width: 485px;
+    height: 57px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_69 {
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 187px;
+    top: 8px;
+    overflow: visible;
+}
+#Pagar {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 41px;
+    color: rgba(10,0,0,1);
+}
+#Elipse_1 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Elipse_1 {
+    position: absolute;
+    overflow: visible;
+    width: 27px;
+    height: 24px;
+    left: 109px;
+    top: 10731.75px;
+}
+#Elipse_2 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Elipse_2 {
+    position: absolute;
+    overflow: visible;
+    width: 27px;
+    height: 24px;
+    left: 109px;
+    top: 10620.75px;
+}
+#Elipse_3 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Elipse_3 {
+    position: absolute;
+    overflow: visible;
+    width: 27px;
+    height: 24px;
+    left: 109px;
+    top: 10510.75px;
+}
+#Grupo_193 {
+    position: absolute;
+    width: 1957px;
+    height: 206px;
+    left: -18px;
+    top: 12782px;
+    overflow: visible;
+}
+#Rectngulo_101 {
+    fill: rgba(252,250,212,1);
+}
+.Rectngulo_101 {
+    position: absolute;
+    overflow: visible;
+    width: 960px;
+    height: 206px;
+    left: 997px;
+    top: 0px;
+}
+#Rectngulo_102 {
+    fill: rgba(198,241,150,1);
+}
+.Rectngulo_102 {
+    position: absolute;
+    overflow: visible;
+    width: 997px;
+    height: 206px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_191 {
+    position: absolute;
+    width: 902px;
+    height: 29px;
+    left: 553px;
+    top: 88px;
+    overflow: visible;
+}
+#WhatsApp_icon {
+    position: absolute;
+    width: 33px;
+    height: 29px;
+    left: 300px;
+    top: 0px;
+    overflow: visible;
+}
+#whatsapp__569_9860_0254 {
+    left: 343px;
+    top: 5px;
+    position: absolute;
+    overflow: visible;
+    width: 211px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(10,0,0,1);
+}
+#Instagram_logo_2016svg {
+    position: absolute;
+    width: 33px;
+    height: 29px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Instagram_Teteria_tparati {
+    left: 47px;
+    top: 5px;
+    position: absolute;
+    overflow: visible;
+    width: 203px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(10,0,0,1);
+}
+#gmail-logo-16 {
+    position: absolute;
+    width: 33px;
+    height: 29px;
+    left: 604px;
+    top: 0px;
+    overflow: visible;
+}
+#Gmail__Teteriaparatigmailcom {
+    left: 652px;
+    top: 5px;
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_103 {
+    fill: rgba(243,240,240,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_103 {
+    position: absolute;
+    overflow: visible;
+    width: 546px;
+    height: 50px;
+    left: 1331px;
+    top: 56px;
+}
+#Buscar_en_nuestra_pagina_ {
+    opacity: 0.58;
+    left: 1467px;
+    top: 67px;
+    position: absolute;
+    overflow: visible;
+    width: 275px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(112,112,112,1);
+}
+#Grupo_128_d {
+    position: absolute;
+    width: 9.453px;
+    height: 10.533px;
+    left: 1352.521px;
+    top: 798.014px;
+    overflow: visible;
+}
+#Trazado_62_d {
+    fill: rgba(255,255,255,1);
+}
+.Trazado_62_d {
+    overflow: visible;
+    position: absolute;
+    width: 6.792px;
+    height: 6.305px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_63_d {
+    fill: rgba(255,255,255,1);
+}
+.Trazado_63_d {
+    overflow: visible;
+    position: absolute;
+    width: 3.903px;
+    height: 4.48px;
+    left: 5.55px;
+    top: 6.053px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_64_d {
+    fill: rgba(255,255,255,1);
+}
+.Trazado_64_d {
+    overflow: visible;
+    position: absolute;
+    width: 4.121px;
+    height: 4.388px;
+    left: 0.501px;
+    top: 1.308px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_128_d {
+    position: absolute;
+    width: 9.453px;
+    height: 10.533px;
+    left: 1352.521px;
+    top: 798.014px;
+    overflow: visible;
+}
+#Trazado_62_d {
+    fill: rgba(255,255,255,1);
+}
+.Trazado_62_d {
+    overflow: visible;
+    position: absolute;
+    width: 6.792px;
+    height: 6.305px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_63_d {
+    fill: rgba(255,255,255,1);
+}
+.Trazado_63_d {
+    overflow: visible;
+    position: absolute;
+    width: 3.903px;
+    height: 4.48px;
+    left: 5.55px;
+    top: 6.053px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_64_d {
+    fill: rgba(255,255,255,1);
+}
+.Trazado_64_d {
+    overflow: visible;
+    position: absolute;
+    width: 4.121px;
+    height: 4.388px;
+    left: 0.501px;
+    top: 1.308px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_128_ea {
+    position: absolute;
+    width: 20.569px;
+    height: 22.918px;
+    left: 1347.521px;
+    top: 69.082px;
+    overflow: visible;
+}
+#Trazado_62_ea {
+    fill: rgba(9,0,0,1);
+}
+.Trazado_62_ea {
+    overflow: visible;
+    position: absolute;
+    width: 14.779px;
+    height: 13.719px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_63_ea {
+    fill: rgba(9,0,0,1);
+}
+.Trazado_63_ea {
+    overflow: visible;
+    position: absolute;
+    width: 8.492px;
+    height: 9.748px;
+    left: 12.077px;
+    top: 13.17px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_64_ea {
+    fill: rgba(9,0,0,1);
+}
+.Trazado_64_ea {
+    overflow: visible;
+    position: absolute;
+    width: 8.966px;
+    height: 9.547px;
+    left: 1.09px;
+    top: 2.847px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_137 {
+    position: absolute;
+    width: 176.692px;
+    height: 179.461px;
+    left: 132.743px;
+    top: 24.539px;
+    overflow: visible;
+}
+#Grupo_136 {
+    position: absolute;
+    width: 176.692px;
+    height: 179.461px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_135 {
+    position: absolute;
+    width: 176.692px;
+    height: 179.461px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Trazado_97 {
+    fill: rgba(116,135,119,1);
+}
+.Trazado_97 {
+    overflow: visible;
+    position: absolute;
+    width: 176.692px;
+    height: 154.47px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_132 {
+    position: absolute;
+    width: 107.478px;
+    height: 73.006px;
+    left: 40.435px;
+    top: 43.095px;
+    overflow: visible;
+}
+#Trazado_98 {
+    fill: rgba(231,230,230,1);
+}
+.Trazado_98 {
+    overflow: visible;
+    position: absolute;
+    width: 62.679px;
+    height: 17.31px;
+    left: 12.598px;
+    top: 55.696px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_99 {
+    fill: rgba(255,255,255,1);
+}
+.Trazado_99 {
+    overflow: visible;
+    position: absolute;
+    width: 87.874px;
+    height: 18.755px;
+    left: 0px;
+    top: 51.183px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_100 {
+    fill: rgba(242,241,241,1);
+}
+.Trazado_100 {
+    overflow: visible;
+    position: absolute;
+    width: 83.573px;
+    height: 16.677px;
+    left: 2.15px;
+    top: 52.03px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_130 {
+    position: absolute;
+    width: 31.9px;
+    height: 45.416px;
+    left: 75.578px;
+    top: 10.322px;
+    overflow: visible;
+}
+#Grupo_129 {
+    position: absolute;
+    width: 31.9px;
+    height: 45.416px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Trazado_101 {
+    fill: rgba(219,195,180,1);
+}
+.Trazado_101 {
+    overflow: visible;
+    position: absolute;
+    width: 31.9px;
+    height: 45.416px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_131 {
+    opacity: 0.3;
+    mix-blend-mode: multiply;
+    position: absolute;
+    width: 11.574px;
+    height: 36.907px;
+    left: 75.601px;
+    top: 11.097px;
+    overflow: visible;
+}
+#Trazado_102 {
+    fill: rgba(205,204,204,1);
+}
+.Trazado_102 {
+    overflow: visible;
+    position: absolute;
+    width: 4.921px;
+    height: 8.307px;
+    left: 0px;
+    top: 28.6px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_103 {
+    fill: rgba(205,204,204,1);
+}
+.Trazado_103 {
+    overflow: visible;
+    position: absolute;
+    width: 5.387px;
+    height: 6.932px;
+    left: 6.186px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_104 {
+    fill: rgba(219,195,180,1);
+}
+.Trazado_104 {
+    overflow: visible;
+    position: absolute;
+    width: 83.578px;
+    height: 55.829px;
+    left: 2.145px;
+    top: 6.781px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_105 {
+    fill: rgba(242,241,241,1);
+}
+.Trazado_105 {
+    overflow: visible;
+    position: absolute;
+    width: 83.573px;
+    height: 13.561px;
+    left: 2.15px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_106 {
+    fill: rgba(231,230,230,1);
+}
+.Trazado_106 {
+    overflow: visible;
+    position: absolute;
+    width: 79.885px;
+    height: 11.431px;
+    left: 3.995px;
+    top: 0.758px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_107 {
+    fill: rgba(205,125,105,1);
+}
+.Trazado_107 {
+    overflow: visible;
+    position: absolute;
+    width: 71.109px;
+    height: 6.186px;
+    left: 8.383px;
+    top: 6.043px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_108 {
+    fill: rgba(238,153,132,1);
+}
+.Trazado_108 {
+    overflow: visible;
+    position: absolute;
+    width: 61.08px;
+    height: 4.072px;
+    left: 13.398px;
+    top: 8.198px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_133 {
+    position: absolute;
+    width: 31.635px;
+    height: 27.622px;
+    left: 34.02px;
+    top: 79.486px;
+    overflow: visible;
+}
+#Trazado_109 {
+    fill: rgba(156,179,159,1);
+}
+.Trazado_109 {
+    overflow: visible;
+    position: absolute;
+    width: 31.635px;
+    height: 27.622px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_110 {
+    fill: rgba(72,87,75,1);
+}
+.Trazado_110 {
+    overflow: visible;
+    position: absolute;
+    width: 25.873px;
+    height: 22.155px;
+    left: 2.774px;
+    top: 2.642px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_134 {
+    position: absolute;
+    width: 41.182px;
+    height: 18.291px;
+    left: 29.95px;
+    top: 91.78px;
+    overflow: visible;
+}
+#Trazado_111 {
+    fill: rgba(156,179,159,1);
+}
+.Trazado_111 {
+    overflow: visible;
+    position: absolute;
+    width: 41.182px;
+    height: 18.291px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_112 {
+    fill: rgba(87,102,89,1);
+}
+.Trazado_112 {
+    overflow: visible;
+    position: absolute;
+    width: 33.684px;
+    height: 12.644px;
+    left: 3.611px;
+    top: 2.542px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_113 {
+    opacity: 0.5;
+    fill: rgba(170,177,171,1);
+}
+.Trazado_113 {
+    overflow: visible;
+    position: absolute;
+    width: 15.114px;
+    height: 34.985px;
+    left: 84.892px;
+    top: 17.658px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_114 {
+    opacity: 0.5;
+    fill: rgba(170,177,171,1);
+}
+.Trazado_114 {
+    overflow: visible;
+    position: absolute;
+    width: 13.576px;
+    height: 26.243px;
+    left: 78.748px;
+    top: 7.407px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_115 {
+    opacity: 0.5;
+    fill: rgba(170,177,171,1);
+}
+.Trazado_115 {
+    overflow: visible;
+    position: absolute;
+    width: 13.454px;
+    height: 16.988px;
+    left: 74.592px;
+    top: 31.665px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#TETERIA {
+    left: 39.88px;
+    top: 119.808px;
+    position: absolute;
+    overflow: visible;
+    width: 97.799px;
+    height: 59.653316497802734px;
+    line-height: 23.511638641357422px;
+    margin-top: -0.25581932067871094px;
+    text-align: left;
+    font-family: LovelynRegular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(238,238,199,1);
+}
+#Rectngulo_91 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_91 {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 41px;
+    top: 7311px;
+}
+#Rectngulo_94 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_94 {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 513px;
+    top: 7314px;
+}
+#Rectngulo_95 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_95 {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 980px;
+    top: 7311px;
+}
+#Rectngulo_97 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_97 {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 1447px;
+    top: 7311px;
+}
+#Rectngulo_98 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_98 {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 1447px;
+    top: 6711px;
+}
+#Rectngulo_96 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_96 {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 982px;
+    top: 6711px;
+}
+#Rectngulo_93 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_93 {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 513px;
+    top: 6711px;
+}
+#Rectngulo_92 {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_92 {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 41px;
+    top: 6711px;
+}
+#Grupo_94 {
+    position: absolute;
+    width: 272.907px;
+    height: 376.51px;
+    left: 121px;
+    top: 6747px;
+    overflow: visible;
+}
+#n_lAb2baoa_1200x630__1 {
+    position: absolute;
+    width: 272.907px;
+    height: 376.51px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_95 {
+    position: absolute;
+    width: 272.907px;
+    height: 376.51px;
+    left: 1527px;
+    top: 6747px;
+    overflow: visible;
+}
+#pastel_de_lucuma {
+    position: absolute;
+    width: 272.906px;
+    height: 376.51px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_96 {
+    position: absolute;
+    width: 272.907px;
+    height: 376.51px;
+    left: 1062px;
+    top: 6747px;
+    overflow: visible;
+}
+#pastel_de_chocolate {
+    position: absolute;
+    width: 272.907px;
+    height: 376.51px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_97 {
+    position: absolute;
+    width: 272.907px;
+    height: 376.51px;
+    left: 593px;
+    top: 6747px;
+    overflow: visible;
+}
+#pexels-dana-sredojevic-1288456 {
+    position: absolute;
+    width: 272.907px;
+    height: 376.51px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Cupcake {
+    left: 210.065px;
+    top: 7140.529px;
+    position: absolute;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Pie_de_limon {
+    left: 685.598px;
+    top: 7142.733px;
+    position: absolute;
+    overflow: visible;
+    width: 133px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Pastel_de_Chocolate_fm {
+    left: 1084.643px;
+    top: 7140.47px;
+    position: absolute;
+    overflow: visible;
+    width: 205px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Pastel_de_lucuma_fn {
+    left: 1574.57px;
+    top: 7140.733px;
+    position: absolute;
+    overflow: visible;
+    width: 179px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_500 {
+    left: 718.989px;
+    top: 7165.056px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#n_400 {
+    left: 1151.091px;
+    top: 7163.056px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_98 {
+    position: absolute;
+    width: 162.986px;
+    height: 41.694px;
+    left: 169.737px;
+    top: 7228.499px;
+    overflow: visible;
+}
+#Rectngulo_25 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25 {
+    position: absolute;
+    overflow: visible;
+    width: 162.986px;
+    height: 41.694px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu_ {
+    left: 25.269px;
+    top: 7.581px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_99 {
+    position: absolute;
+    width: 162.986px;
+    height: 41.694px;
+    left: 671.613px;
+    top: 7229.073px;
+    overflow: visible;
+}
+#Rectngulo_25_fu {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_fu {
+    position: absolute;
+    overflow: visible;
+    width: 162.986px;
+    height: 41.694px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__fv {
+    left: 25.269px;
+    top: 7.581px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_100 {
+    position: absolute;
+    width: 162.986px;
+    height: 41.694px;
+    left: 1106.421px;
+    top: 7228.81px;
+    overflow: visible;
+}
+#Rectngulo_25_fx {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_fx {
+    position: absolute;
+    overflow: visible;
+    width: 162.986px;
+    height: 41.694px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__fy {
+    left: 25.269px;
+    top: 7.581px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_101 {
+    position: absolute;
+    width: 162.986px;
+    height: 41.694px;
+    left: 1573.785px;
+    top: 7229.073px;
+    overflow: visible;
+}
+#Rectngulo_25_f {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_f {
+    position: absolute;
+    overflow: visible;
+    width: 162.986px;
+    height: 41.694px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__f {
+    left: 25.269px;
+    top: 7.581px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_102 {
+    position: absolute;
+    width: 272.907px;
+    height: 392.872px;
+    left: 121px;
+    top: 7331px;
+    overflow: visible;
+}
+#aliado {
+    position: absolute;
+    width: 272.907px;
+    height: 392.872px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_103 {
+    position: absolute;
+    width: 272.907px;
+    height: 392.872px;
+    left: 593px;
+    top: 7331px;
+    overflow: visible;
+}
+#Ave-Mayo {
+    position: absolute;
+    width: 272.907px;
+    height: 392.872px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_104 {
+    position: absolute;
+    width: 272.907px;
+    height: 392.872px;
+    left: 1527px;
+    top: 7331px;
+    overflow: visible;
+}
+#barros_luco {
+    position: absolute;
+    width: 272.906px;
+    height: 392.872px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#n_500_f {
+    left: 224.565px;
+    top: 7166.367px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#n_400_f {
+    left: 1631.006px;
+    top: 7164.056px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#n_400_ga {
+    left: 718.989px;
+    top: 7766.057px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#n_400_gb {
+    left: 1158.353px;
+    top: 7769.057px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_106 {
+    position: absolute;
+    width: 162.986px;
+    height: 41.694px;
+    left: 185.484px;
+    top: 7835.336px;
+    overflow: visible;
+}
+#Rectngulo_25_gd {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_gd {
+    position: absolute;
+    overflow: visible;
+    width: 162.986px;
+    height: 41.694px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__ge {
+    left: 25.269px;
+    top: 7.58px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_107 {
+    position: absolute;
+    width: 162.986px;
+    height: 41.694px;
+    left: 671.613px;
+    top: 7835.072px;
+    overflow: visible;
+}
+#Rectngulo_25_gg {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_gg {
+    position: absolute;
+    overflow: visible;
+    width: 162.986px;
+    height: 41.694px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__gh {
+    left: 25.269px;
+    top: 7.58px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_108 {
+    position: absolute;
+    width: 162.986px;
+    height: 41.694px;
+    left: 1106.421px;
+    top: 7832.81px;
+    overflow: visible;
+}
+#Rectngulo_25_gj {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_gj {
+    position: absolute;
+    overflow: visible;
+    width: 162.986px;
+    height: 41.694px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__gk {
+    left: 25.269px;
+    top: 7.581px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_109 {
+    position: absolute;
+    width: 162.986px;
+    height: 41.694px;
+    left: 1573.785px;
+    top: 7835.072px;
+    overflow: visible;
+}
+#Rectngulo_25_gm {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_gm {
+    position: absolute;
+    overflow: visible;
+    width: 162.986px;
+    height: 41.694px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__gn {
+    left: 25.269px;
+    top: 7.58px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_500_go {
+    left: 229.077px;
+    top: 7765.529px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#n_500_gp {
+    left: 1617.006px;
+    top: 7768.057px;
+    position: absolute;
+    overflow: visible;
+    width: 63px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#Sndwich_aliado {
+    left: 170.283px;
+    top: 7740.029px;
+    position: absolute;
+    overflow: visible;
+    width: 175px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Ave_Mayo {
+    left: 697.312px;
+    top: 7740.029px;
+    position: absolute;
+    overflow: visible;
+    width: 104px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Ave_Palta {
+    left: 1141.923px;
+    top: 7743.766px;
+    position: absolute;
+    overflow: visible;
+    width: 98px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Barros_Luco_gt {
+    left: 1591.255px;
+    top: 7743.029px;
+    position: absolute;
+    overflow: visible;
+    width: 129px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_110 {
+    position: absolute;
+    width: 272.907px;
+    height: 392.872px;
+    left: 1060px;
+    top: 7331px;
+    overflow: visible;
+}
+#ave_palta {
+    position: absolute;
+    width: 272.907px;
+    height: 392.872px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectngulo_98_gw {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_98_gw {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 1447px;
+    top: 5487px;
+}
+#Rectngulo_97_gx {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_97_gx {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 1447px;
+    top: 6094px;
+}
+#Rectngulo_96_gy {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_96_gy {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 982px;
+    top: 5487px;
+}
+#Rectngulo_95_gz {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_95_gz {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 980px;
+    top: 6094px;
+}
+#Rectngulo_94_g {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_94_g {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 513px;
+    top: 6094px;
+}
+#Rectngulo_93_g {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_93_g {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 513px;
+    top: 5487px;
+}
+#Rectngulo_92_g {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_92_g {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 41px;
+    top: 5487px;
+}
+#Rectngulo_91_g {
+    fill: rgba(252,250,212,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_91_g {
+    position: absolute;
+    overflow: visible;
+    width: 433px;
+    height: 581px;
+    left: 41px;
+    top: 6094px;
+}
+#Grupo_78 {
+    position: absolute;
+    width: 271.564px;
+    height: 374.657px;
+    left: 122px;
+    top: 5501px;
+    overflow: visible;
+}
+#shutterstock_778607236 {
+    position: absolute;
+    width: 271.564px;
+    height: 374.657px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_79 {
+    position: absolute;
+    width: 271.564px;
+    height: 374.657px;
+    left: 1528px;
+    top: 5501px;
+    overflow: visible;
+}
+#te_maracuya {
+    position: absolute;
+    width: 271.564px;
+    height: 374.657px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_80 {
+    position: absolute;
+    width: 272px;
+    height: 375px;
+    left: 1063px;
+    top: 5501px;
+    overflow: visible;
+}
+#te_de_jazmin {
+    position: absolute;
+    width: 272px;
+    height: 375px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_81 {
+    position: absolute;
+    width: 271.564px;
+    height: 374.657px;
+    left: 594px;
+    top: 5501px;
+    overflow: visible;
+}
+#n_JZCKIY2CBDD7BG4HYJ63K42TY_hb {
+    position: absolute;
+    width: 271.564px;
+    height: 374.657px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#T_Oolong {
+    left: 194px;
+    top: 5898.719px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#T_Negro_hd {
+    left: 672.203px;
+    top: 5897.719px;
+    position: absolute;
+    overflow: visible;
+    width: 99px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#T_de_Jazmin {
+    left: 1100.781px;
+    top: 5900.719px;
+    position: absolute;
+    overflow: visible;
+    width: 135px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#T_de_Maracuya {
+    left: 1558px;
+    top: 5904.719px;
+    position: absolute;
+    overflow: visible;
+    width: 167px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_50 {
+    left: 695.357px;
+    top: 5930.719px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_00 {
+    left: 1147.564px;
+    top: 5930.719px;
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_82 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 169px;
+    top: 6016.719px;
+    overflow: visible;
+}
+#Rectngulo_25_hj {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_hj {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__hk {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_83 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 642.973px;
+    top: 6016.719px;
+    overflow: visible;
+    cursor: pointer;
+    --web-animation: fadein 0.30000001192092896s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___6.html;
+}
+#Rectngulo_25_hm {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_hm {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__hn {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_84 {
+    position: absolute;
+    width: 163px;
+    height: 41px;
+    left: 1091.099px;
+    top: 6017.719px;
+    overflow: visible;
+}
+#Rectngulo_25_hp {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_hp {
+    position: absolute;
+    overflow: visible;
+    width: 163px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__hq {
+    left: 25px;
+    top: 7px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_85 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 1546px;
+    top: 6016.719px;
+    overflow: visible;
+}
+#Rectngulo_25_hs {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_hs {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__ht {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_86 {
+    position: absolute;
+    width: 271.564px;
+    height: 390.938px;
+    left: 122px;
+    top: 6107px;
+    overflow: visible;
+}
+#teamarillo {
+    position: absolute;
+    width: 271.564px;
+    height: 390.938px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_87 {
+    position: absolute;
+    width: 271.564px;
+    height: 390.938px;
+    left: 594px;
+    top: 6107px;
+    overflow: visible;
+}
+#te-rojo {
+    position: absolute;
+    width: 271.564px;
+    height: 390.938px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_88 {
+    position: absolute;
+    width: 271.564px;
+    height: 390.938px;
+    left: 1528px;
+    top: 6107px;
+    overflow: visible;
+}
+#techai {
+    position: absolute;
+    width: 271.564px;
+    height: 390.938px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#n_00_h {
+    left: 226px;
+    top: 5930.719px;
+    position: absolute;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#T_Amarillo {
+    left: 193.255px;
+    top: 6513.931px;
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_89 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 176.255px;
+    top: 6620.931px;
+    overflow: visible;
+}
+#Rectngulo_25_h {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_h {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__h {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_90 {
+    left: 227.255px;
+    top: 6541.931px;
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#T_Rojo {
+    left: 679.513px;
+    top: 6512.359px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#n_90_h {
+    left: 696.686px;
+    top: 6542.359px;
+    position: absolute;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_90 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 643.239px;
+    top: 6622.359px;
+    overflow: visible;
+}
+#Rectngulo_25_ia {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_ia {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__ia {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#T_Blanco {
+    left: 1134.547px;
+    top: 6514px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_90_ic {
+    left: 1158.177px;
+    top: 6541px;
+    position: absolute;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_91 {
+    position: absolute;
+    width: 163px;
+    height: 41px;
+    left: 1105.921px;
+    top: 6622px;
+    overflow: visible;
+}
+#Rectngulo_25_ie {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_ie {
+    position: absolute;
+    overflow: visible;
+    width: 163px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__if {
+    left: 25px;
+    top: 7px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#te_blanco {
+    position: absolute;
+    width: 271.564px;
+    height: 390.938px;
+    left: 1060.718px;
+    top: 6106.9px;
+    overflow: visible;
+}
+#T_de_Chai {
+    left: 1580.255px;
+    top: 6515.359px;
+    position: absolute;
+    overflow: visible;
+    width: 111px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_93 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 1565.255px;
+    top: 6622.359px;
+    overflow: visible;
+}
+#Rectngulo_25_ij {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_ij {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__ik {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_90_il {
+    left: 1615.255px;
+    top: 6544.359px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#n_90_im {
+    left: 1615px;
+    top: 5930.719px;
+    position: absolute;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_198 {
+    position: absolute;
+    width: 195px;
+    height: 184px;
+    left: 433px;
+    top: 4953.5px;
+    overflow: visible;
+}
+#Acompaamiento {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 196px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#Cupcakes {
+    left: 39px;
+    top: 47px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#Pasteles {
+    left: 39px;
+    top: 85px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#Pie_de_Limon {
+    left: 39px;
+    top: 123px;
+    position: absolute;
+    overflow: visible;
+    width: 115px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#Sandwich {
+    left: 39px;
+    top: 161px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_61 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_61 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 10px;
+    top: 47px;
+}
+#Rectngulo_63 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_63 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 10px;
+    top: 161px;
+}
+#Rectngulo_64 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_64 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 10px;
+    top: 123px;
+}
+#Rectngulo_65 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_65 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 10px;
+    top: 85px;
+}
+#Grupo_199 {
+    position: absolute;
+    width: 186px;
+    height: 33px;
+    left: 340px;
+    top: 5202px;
+    overflow: visible;
+}
+#Rectngulo_66 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_66 {
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    height: 33px;
+    left: 0px;
+    top: 0px;
+}
+#Buscar {
+    left: 56px;
+    top: 5px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_200 {
+    position: absolute;
+    width: 126px;
+    height: 222px;
+    left: 280px;
+    top: 4953.5px;
+    overflow: visible;
+}
+#Tipo_de_T {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_56 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_56 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 9px;
+    top: 47px;
+}
+#T_Blanco_i {
+    left: 38px;
+    top: 47px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#T_Azul {
+    left: 39px;
+    top: 85px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#T_Negro_i {
+    left: 38px;
+    top: 123px;
+    position: absolute;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#T_Oolong_i {
+    left: 38px;
+    top: 161px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#T_Chai {
+    left: 39px;
+    top: 199px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_57 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_57 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 10px;
+    top: 199px;
+}
+#Rectngulo_58 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_58 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 9px;
+    top: 161px;
+}
+#Rectngulo_59 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_59 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 9px;
+    top: 123px;
+}
+#Rectngulo_60 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_60 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 9px;
+    top: 85px;
+}
+#Rectngulo_67 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_67 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 9px;
+    top: 47px;
+}
+#Rectngulo_68 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_68 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 10px;
+    top: 199px;
+}
+#Rectngulo_69 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_69 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 9px;
+    top: 161px;
+}
+#Rectngulo_70 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_70 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 9px;
+    top: 123px;
+}
+#Rectngulo_71 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_71 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 9px;
+    top: 85px;
+}
+#Ubicaciones {
+    left: 1408px;
+    top: 4953.5px;
+    position: absolute;
+    overflow: visible;
+    width: 131px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_de_desplazamiento_4 {
+    mix-blend-mode: normal;
+    position: absolute;
+    width: 334px;
+    height: 79px;
+    left: 1306px;
+    top: 4984.5px;
+    overflow: hidden;
+}
+#Grupo_76 {
+    position: absolute;
+    width: 334px;
+    height: 55px;
+    left: 0px;
+    top: 102px;
+    overflow: visible;
+}
+#Rectngulo_34 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_34 {
+    position: absolute;
+    overflow: visible;
+    width: 334px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+}
+#Sucursal_Maip {
+    left: 82px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 171px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_72 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_72 {
+    position: absolute;
+    overflow: visible;
+    width: 334px;
+    height: 55px;
+    left: 0px;
+    top: 180px;
+}
+#Sucursal_Santiago_Centro {
+    left: 28px;
+    top: 193px;
+    position: absolute;
+    overflow: visible;
+    width: 279px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_73 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_73 {
+    position: absolute;
+    overflow: visible;
+    width: 334px;
+    height: 55px;
+    left: 0px;
+    top: 258px;
+}
+#Sucursal_Providencia {
+    left: 52px;
+    top: 271px;
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_77 {
+    position: absolute;
+    width: 334px;
+    height: 55px;
+    left: 0px;
+    top: 11px;
+    overflow: visible;
+}
+#Rectngulo_34_jr {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_34_jr {
+    position: absolute;
+    overflow: visible;
+    width: 334px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+}
+#Elija_su_sucursal {
+    left: 78px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 179px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#ms_sucursales {
+    left: 1416px;
+    top: 5088.5px;
+    position: absolute;
+    overflow: visible;
+    width: 133px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_128 {
+    fill: rgba(198,241,150,1);
+}
+.Rectngulo_128 {
+    position: absolute;
+    overflow: visible;
+    width: 2106px;
+    height: 171px;
+    left: -72px;
+    top: 4738.776px;
+}
+#Restaurante {
+    left: 735px;
+    top: 4774.776px;
+    position: absolute;
+    overflow: visible;
+    width: 451px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 99px;
+    color: rgba(9,0,0,1);
+}
+#Grupo_213 {
+    position: absolute;
+    width: 167.114px;
+    height: 118.903px;
+    left: 1128.314px;
+    top: 4712.392px;
+    overflow: visible;
+}
+#Trazado_145_jx {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_145_jx {
+    overflow: visible;
+    position: absolute;
+    width: 24.003px;
+    height: 76.446px;
+    transform: translate(-1206.085px, -4549.631px) matrix(1,0,0,1,1233.1867,4552.0841) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_146_jy {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_146_jy {
+    overflow: visible;
+    position: absolute;
+    width: 28.499px;
+    height: 58.153px;
+    transform: translate(-1206.085px, -4549.631px) matrix(1,0,0,1,1263.933,4547.4334) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_147_jz {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_147_jz {
+    overflow: visible;
+    position: absolute;
+    width: 29.904px;
+    height: 61.656px;
+    transform: translate(-1206.085px, -4549.631px) matrix(1,0,0,1,1258.5596,4585.057) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_148_j {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_148_j {
+    overflow: visible;
+    position: absolute;
+    width: 34.265px;
+    height: 47.383px;
+    transform: translate(-1206.085px, -4549.631px) matrix(1,0,0,1,1296.8371,4570.4795) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_149_j {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_149_j {
+    overflow: visible;
+    position: absolute;
+    width: 28.845px;
+    height: 57.276px;
+    transform: translate(-1206.085px, -4549.631px) matrix(1,0,0,1,1294.3249,4613.0869) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_150_j {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_150_j {
+    overflow: visible;
+    position: absolute;
+    width: 37.599px;
+    height: 41.747px;
+    transform: translate(-1206.085px, -4549.631px) matrix(1,0,0,1,1326.9237,4589.5919) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_212 {
+    position: absolute;
+    width: 165.68px;
+    height: 122.205px;
+    left: 629.634px;
+    top: 4845.795px;
+    overflow: visible;
+}
+#Trazado_145_j {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_145_j {
+    overflow: visible;
+    position: absolute;
+    width: 24.003px;
+    height: 76.446px;
+    transform: translate(-614.965px, -4497.78px) matrix(1,0,0,1,730.0505,4541.9241) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_146_j {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_146_j {
+    overflow: visible;
+    position: absolute;
+    width: 28.499px;
+    height: 58.153px;
+    transform: translate(-614.965px, -4497.78px) matrix(1,0,0,1,694.1308,4563.122) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_147_j {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_147_j {
+    overflow: visible;
+    position: absolute;
+    width: 29.904px;
+    height: 61.656px;
+    transform: translate(-614.965px, -4497.78px) matrix(1,0,0,1,700.1541,4522.2934) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_148_ka {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_148_ka {
+    overflow: visible;
+    position: absolute;
+    width: 34.265px;
+    height: 47.383px;
+    transform: translate(-614.965px, -4497.78px) matrix(1,0,0,1,656.4342,4548.9972) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_149_ka {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_149_ka {
+    overflow: visible;
+    position: absolute;
+    width: 28.845px;
+    height: 57.276px;
+    transform: translate(-614.965px, -4497.78px) matrix(1,0,0,1,666.8478,4496.8355) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_150_ka {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_150_ka {
+    overflow: visible;
+    position: absolute;
+    width: 37.599px;
+    height: 41.747px;
+    transform: translate(-614.965px, -4497.78px) matrix(1,0,0,1,623.9103,4533.8809) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#T_Amarillo_ka {
+    left: 245px;
+    top: 2970.797px;
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_25_kb {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_kb {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 228px;
+    top: 3073.797px;
+}
+#Pulsa_aqu__kc {
+    left: 253px;
+    top: 3081.797px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_290 {
+    left: 279px;
+    top: 2998.797px;
+    position: absolute;
+    overflow: visible;
+    width: 63px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#T_Rojo_ke {
+    left: 724px;
+    top: 2979.905px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#n_90_kf {
+    left: 741px;
+    top: 3009.905px;
+    position: absolute;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_25_kg {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_kg {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 688px;
+    top: 3081.905px;
+}
+#Pulsa_aqu__kh {
+    left: 713px;
+    top: 3089.905px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#T_Blanco_ki {
+    left: 1115px;
+    top: 2979.905px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_90_kj {
+    left: 1139px;
+    top: 3010.905px;
+    position: absolute;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_25_kk {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_kk {
+    position: absolute;
+    overflow: visible;
+    width: 163px;
+    height: 41px;
+    left: 1087px;
+    top: 3081.905px;
+}
+#Pulsa_aqu__kl {
+    left: 1112px;
+    top: 3088.905px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_0_bolsas {
+    left: 1119px;
+    top: 3042.298px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_0_bolsas_kn {
+    left: 721px;
+    top: 3038.905px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_5_Bolsas {
+    left: 260px;
+    top: 3029.833px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#T_de_Chai_kp {
+    left: 1504.999px;
+    top: 2978.905px;
+    position: absolute;
+    overflow: visible;
+    width: 111px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_25_kq {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_kq {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 1484.999px;
+    top: 3080.905px;
+}
+#Pulsa_aqu__kr {
+    left: 1509.999px;
+    top: 3088.905px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_90_ks {
+    left: 1538.999px;
+    top: 3008.905px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#n_5_Bolsas_kt {
+    left: 1516.999px;
+    top: 3043.297px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#te_chai {
+    position: absolute;
+    width: 391px;
+    height: 462px;
+    left: 1407px;
+    top: 2558.869px;
+    overflow: visible;
+}
+#te_blanco_kv {
+    position: absolute;
+    width: 423px;
+    height: 424px;
+    left: 953px;
+    top: 2543.869px;
+    overflow: visible;
+}
+#c2634fc7-b1b3-408f-8383-14e0cf {
+    position: absolute;
+    width: 347px;
+    height: 436px;
+    left: 555px;
+    top: 1929.869px;
+    overflow: visible;
+}
+#T_Oolong_kx {
+    left: 244.628px;
+    top: 2342.869px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#T_Negro_ky {
+    left: 677.628px;
+    top: 2342.869px;
+    position: absolute;
+    overflow: visible;
+    width: 99px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#T_de_Jazmin_kz {
+    left: 1072.628px;
+    top: 2341.869px;
+    position: absolute;
+    overflow: visible;
+    width: 135px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#T_de_Maracuya_k {
+    left: 1471.628px;
+    top: 2342.869px;
+    position: absolute;
+    overflow: visible;
+    width: 167px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_250 {
+    left: 693.628px;
+    top: 2372.869px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_000 {
+    left: 1103.628px;
+    top: 2372.869px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_25_k {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_k {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 219.628px;
+    top: 2445.869px;
+}
+#Pulsa_aqu__k {
+    left: 244.628px;
+    top: 2453.869px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_25_la {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_la {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 644.628px;
+    top: 2444.869px;
+}
+#Pulsa_aqu__la {
+    left: 669.628px;
+    top: 2452.869px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_25_lb {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_lb {
+    position: absolute;
+    overflow: visible;
+    width: 163px;
+    height: 41px;
+    left: 1060.628px;
+    top: 2443.869px;
+}
+#Pulsa_aqu__lb {
+    left: 1085.628px;
+    top: 2450.869px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_25_lc {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_lc {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 1485.628px;
+    top: 2444.869px;
+}
+#Pulsa_aqu__lc {
+    left: 1510.628px;
+    top: 2452.869px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_000_lb {
+    left: 267.628px;
+    top: 2370.869px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_5_Bolsas_lc {
+    left: 254.628px;
+    top: 2401.905px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_0_bolsas_ld {
+    left: 681.628px;
+    top: 2401.869px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_5_Bolsas_le {
+    left: 1094.628px;
+    top: 2401.869px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_290_lf {
+    left: 1536.628px;
+    top: 2372.869px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_0_bolsas_lg {
+    left: 1523.628px;
+    top: 2401.477px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#te_oolong {
+    position: absolute;
+    width: 337px;
+    height: 401px;
+    left: 149px;
+    top: 1935.869px;
+    overflow: visible;
+}
+#terojo {
+    position: absolute;
+    width: 411px;
+    height: 411px;
+    left: 544px;
+    top: 2525.869px;
+    overflow: visible;
+}
+#te_jazmin {
+    position: absolute;
+    width: 386px;
+    height: 386px;
+    left: 949px;
+    top: 1950.869px;
+    overflow: visible;
+}
+#te_maracuya_lk {
+    position: absolute;
+    width: 402px;
+    height: 402px;
+    left: 1366px;
+    top: 1939.869px;
+    overflow: visible;
+}
+#te_amarillo {
+    position: absolute;
+    width: 391px;
+    height: 391px;
+    left: 122px;
+    top: 2533.869px;
+    overflow: visible;
+}
+#Bombn_de_Trufas {
+    left: 221.314px;
+    top: 3644.546px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_8 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 247.314px;
+    top: 3747.545px;
+    overflow: visible;
+}
+#Rectngulo_25_lo {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_lo {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__lp {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_12 {
+    position: absolute;
+    width: 345.201px;
+    height: 433.528px;
+    left: 156.713px;
+    top: 3845.195px;
+    overflow: visible;
+}
+#Captura_de_pantalla_20221130_1 {
+    position: absolute;
+    width: 345.201px;
+    height: 433.528px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#n_000_ls {
+    left: 276.314px;
+    top: 3672.546px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Limonada_de_Naranja {
+    left: 215.314px;
+    top: 4256.759px;
+    position: absolute;
+    overflow: visible;
+    width: 229px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_390 {
+    left: 292.314px;
+    top: 4284.759px;
+    position: absolute;
+    overflow: visible;
+    width: 66px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_5_Bolsas_lv {
+    left: 263.314px;
+    top: 3703.582px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_5_Bolsas_lw {
+    left: 273.314px;
+    top: 4315.794px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_126 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 243.314px;
+    top: 4363.827px;
+    overflow: visible;
+}
+#Rectngulo_25_ly {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_ly {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__lz {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Captura_de_pantalla_20221130_1_l {
+    position: absolute;
+    width: 360.224px;
+    height: 390.966px;
+    left: 141px;
+    top: 3234.616px;
+    overflow: visible;
+}
+#Grupo_13 {
+    transform: matrix(1,0,0,1,542.8867,3772.7749) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    width: 417.113px;
+    height: 591.052px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#te_de_mora {
+    position: absolute;
+    width: 417.113px;
+    height: 591.052px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_5 {
+    position: absolute;
+    width: 407.005px;
+    height: 444.442px;
+    left: 1371.681px;
+    top: 3208.104px;
+    overflow: visible;
+}
+#blanco_paraiso {
+    position: absolute;
+    width: 407.005px;
+    height: 444.442px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_6 {
+    position: absolute;
+    width: 400.557px;
+    height: 509px;
+    left: 958.314px;
+    top: 3178.546px;
+    overflow: visible;
+}
+#Captura_de_pantalla_20221130_1_ma {
+    position: absolute;
+    width: 400.557px;
+    height: 509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Trazado_151 {
+    fill: rgba(0,0,0,0);
+}
+.Trazado_151 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    left: 71.664px;
+    top: 88.95px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_7 {
+    position: absolute;
+    width: 398.855px;
+    height: 463.246px;
+    left: 553.831px;
+    top: 3201.867px;
+    overflow: visible;
+}
+#verano_en_el_bosque {
+    position: absolute;
+    width: 398.855px;
+    height: 463.246px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Verano_en_el_Bosque_ma {
+    left: 644.314px;
+    top: 3644.546px;
+    position: absolute;
+    overflow: visible;
+    width: 224px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#Postre_de_Canela {
+    left: 1075.314px;
+    top: 3643.546px;
+    position: absolute;
+    overflow: visible;
+    width: 177px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Blanco_Paraso {
+    left: 1504.314px;
+    top: 3644.546px;
+    position: absolute;
+    overflow: visible;
+    width: 155px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_250_md {
+    left: 724.314px;
+    top: 3674.546px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_000_me {
+    left: 1127.314px;
+    top: 3674.546px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_9 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 673.314px;
+    top: 3746.546px;
+    overflow: visible;
+}
+#Rectngulo_25_mg {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_mg {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__mh {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_10 {
+    position: absolute;
+    width: 163px;
+    height: 41px;
+    left: 1084.314px;
+    top: 3745.546px;
+    overflow: visible;
+}
+#Rectngulo_25_mj {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_mj {
+    position: absolute;
+    overflow: visible;
+    width: 163px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__mk {
+    left: 25px;
+    top: 7px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_11 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 1505.314px;
+    top: 3746.546px;
+    overflow: visible;
+}
+#Rectngulo_25_mm {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_mm {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__mn {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_14 {
+    position: absolute;
+    width: 411.978px;
+    height: 534.187px;
+    left: 1403.033px;
+    top: 3806.938px;
+    overflow: visible;
+}
+#Captura_de_pantalla_20221130_1_mp {
+    position: absolute;
+    width: 411.978px;
+    height: 534.187px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#T_de_Mora {
+    left: 701.314px;
+    top: 4261.187px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_22 {
+    position: absolute;
+    width: 345.564px;
+    height: 465.938px;
+    left: 993.032px;
+    top: 3819.281px;
+    overflow: visible;
+}
+#te_verde_Chocolate_Canela {
+    position: absolute;
+    width: 345.564px;
+    height: 465.938px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#n_290_mt {
+    left: 729.314px;
+    top: 4291.187px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_20 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 683.314px;
+    top: 4364.187px;
+    overflow: visible;
+}
+#Rectngulo_25_mv {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_mv {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__mw {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#T_Verde_Chocolate_Canela {
+    left: 1034.314px;
+    top: 4265.827px;
+    position: absolute;
+    overflow: visible;
+    width: 288px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_000_my {
+    left: 1139.314px;
+    top: 4296.827px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_21 {
+    position: absolute;
+    width: 163px;
+    height: 41px;
+    left: 1096.314px;
+    top: 4364.828px;
+    overflow: visible;
+}
+#Rectngulo_25_m {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_m {
+    position: absolute;
+    overflow: visible;
+    width: 163px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__m {
+    left: 25px;
+    top: 7px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Cereza_Silvestre {
+    left: 1500.314px;
+    top: 4258.187px;
+    position: absolute;
+    overflow: visible;
+    width: 169px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#Grupo_23 {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 1509.314px;
+    top: 4364.187px;
+    overflow: visible;
+}
+#Rectngulo_25_na {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25_na {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+#Pulsa_aqu__na {
+    left: 25px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,0,0,1);
+}
+#n_990 {
+    left: 1555.314px;
+    top: 4288.187px;
+    position: absolute;
+    overflow: visible;
+    width: 63px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(10,0,0,1);
+}
+#n_0_bolsas_m {
+    left: 716.314px;
+    top: 3703.546px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_5_Bolsas_m {
+    left: 1118.314px;
+    top: 3703.546px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_290_m {
+    left: 1548.314px;
+    top: 3674.546px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_0_bolsas_na {
+    left: 1537.314px;
+    top: 3703.153px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_5_Bolsas_nb {
+    left: 1541.314px;
+    top: 4322.579px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_0_bolsas_nc {
+    left: 1128.314px;
+    top: 4328.22px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#n_0_bolsas_nd {
+    left: 718.314px;
+    top: 4320.187px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(10,0,0,1);
+}
+#Rectngulo_128_ne {
+    fill: rgba(198,241,150,1);
+}
+.Rectngulo_128_ne {
+    position: absolute;
+    overflow: visible;
+    width: 2123.499px;
+    height: 171px;
+    left: -102px;
+    top: 1666.052px;
+}
+#Nuestros_productos {
+    left: 594px;
+    top: 1703px;
+    position: absolute;
+    overflow: visible;
+    width: 733px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Sitka Banner;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 99px;
+    color: rgba(0,0,0,1);
+}
+#Grupo_217 {
+    position: absolute;
+    width: 165.68px;
+    height: 122.206px;
+    left: 476.057px;
+    top: 1759.989px;
+    overflow: visible;
+}
+#Trazado_145_nh {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_145_nh {
+    overflow: visible;
+    position: absolute;
+    width: 24.003px;
+    height: 76.446px;
+    transform: translate(-286.057px, -2570.989px) matrix(1,0,0,1,401.1431,2615.1334) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_146_ni {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_146_ni {
+    overflow: visible;
+    position: absolute;
+    width: 28.499px;
+    height: 58.153px;
+    transform: translate(-286.057px, -2570.989px) matrix(1,0,0,1,365.2234,2636.3313) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_147_nj {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_147_nj {
+    overflow: visible;
+    position: absolute;
+    width: 29.904px;
+    height: 61.656px;
+    transform: translate(-286.057px, -2570.989px) matrix(1,0,0,1,371.2468,2595.503) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_148_nk {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_148_nk {
+    overflow: visible;
+    position: absolute;
+    width: 34.265px;
+    height: 47.383px;
+    transform: translate(-286.057px, -2570.989px) matrix(1,0,0,1,327.5269,2622.2065) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_149_nl {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_149_nl {
+    overflow: visible;
+    position: absolute;
+    width: 28.845px;
+    height: 57.276px;
+    transform: translate(-286.057px, -2570.989px) matrix(1,0,0,1,337.9404,2570.0444) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_150_nm {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_150_nm {
+    overflow: visible;
+    position: absolute;
+    width: 37.599px;
+    height: 41.747px;
+    transform: translate(-286.057px, -2570.989px) matrix(1,0,0,1,295.0029,2607.0903) rotate(123deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_218 {
+    position: absolute;
+    width: 167.115px;
+    height: 118.904px;
+    left: 1275.505px;
+    top: 1631.854px;
+    overflow: visible;
+}
+#Trazado_145_no {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_145_no {
+    overflow: visible;
+    position: absolute;
+    width: 24.003px;
+    height: 76.446px;
+    transform: translate(-2406.505px, -2113.854px) matrix(1,0,0,1,2433.6068,2116.3073) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_146_np {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_146_np {
+    overflow: visible;
+    position: absolute;
+    width: 28.499px;
+    height: 58.153px;
+    transform: translate(-2406.505px, -2113.854px) matrix(1,0,0,1,2464.3529,2111.6566) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_147_nq {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_147_nq {
+    overflow: visible;
+    position: absolute;
+    width: 29.904px;
+    height: 61.656px;
+    transform: translate(-2406.505px, -2113.854px) matrix(1,0,0,1,2458.9795,2149.2803) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_148_nr {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_148_nr {
+    overflow: visible;
+    position: absolute;
+    width: 34.265px;
+    height: 47.383px;
+    transform: translate(-2406.505px, -2113.854px) matrix(1,0,0,1,2497.257,2134.703) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_149_ns {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_149_ns {
+    overflow: visible;
+    position: absolute;
+    width: 28.845px;
+    height: 57.276px;
+    transform: translate(-2406.505px, -2113.854px) matrix(1,0,0,1,2494.7449,2177.3105) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Trazado_150_nt {
+    fill: rgba(115,194,109,1);
+}
+.Trazado_150_nt {
+    overflow: visible;
+    position: absolute;
+    width: 37.599px;
+    height: 41.747px;
+    transform: translate(-2406.505px, -2113.854px) matrix(1,0,0,1,2527.3439,2153.8152) rotate(-60deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+
